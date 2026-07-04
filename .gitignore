@@ -9,7 +9,6 @@ data/
 .settings/
 .project
 .classpath
-.vscode/
 .zed/settings.json
 .DS_Store
 .zed/settings.json
@@ -32,3 +31,5 @@ test-results.xml
 test-results
 
 scripts/node_modules/
+config.bat
+node_modules

@@ -6,7 +6,7 @@
     "app": "bin/app.js"
   },
   "scripts": {
-    "build": "tsc",
+    "build": "node init && tsc",
     "cdk": "cdk"
   },
   "dependencies": {
